@@ -1,6 +1,6 @@
 import styles from "../styles/Home.module.css";
 
-import Card from "./components/card";
+import Card from "../components/card";
 
 import Image from "next/image";
 
