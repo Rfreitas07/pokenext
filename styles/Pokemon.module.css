@@ -102,14 +102,14 @@
   background-color: #e9e;
 }
 
-.data_container {
+.dataContainer {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 0.5em;
 }
 
-.data_container div {
+.dataContainer div {
   margin: 1em 0;
   padding: 0 1em;
   display: flex;
@@ -118,6 +118,6 @@
   justify-content: center;
 }
 
-.data_height {
+.dataHeight {
   border-right: 1px solid #ccc;
 }
